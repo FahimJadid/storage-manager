@@ -16,7 +16,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.3.5",
     "multer": "^2.0.1",
-    "nodemailer": "^6.9.13"
+    "nodemailer": "^9.1.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
